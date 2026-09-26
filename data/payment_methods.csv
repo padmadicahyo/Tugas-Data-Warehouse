@@ -1,0 +1,7 @@
+﻿payment_method_code,payment_method_name
+PAY01,Transfer Bank
+PAY02,Virtual Account
+PAY03,E-Wallet
+PAY04,QRIS
+PAY05,Kartu Kredit/Debit
+PAY06,COD

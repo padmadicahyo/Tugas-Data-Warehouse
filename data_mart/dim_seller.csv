@@ -1,0 +1,301 @@
+﻿seller_key,seller_id,seller_name,seller_segment,street,city,province,join_date,seller_status
+1,SELL0001,Outlet Amanah 001,Enterprise,Jl. Veteran No. 224,Yogyakarta,DI Yogyakarta,2024-12-15,ACTIVE
+2,SELL0002,Grosir Berkah 002,Micro,Jl. Pemuda No. 33,Makassar,Sulawesi Selatan,2024-12-11,ACTIVE
+3,SELL0003,Outlet Prima 003,Small,Jl. Veteran No. 142,Makassar,Sulawesi Selatan,2024-07-21,ACTIVE
+4,SELL0004,Store Cemerlang 004,Enterprise,Jl. Merdeka No. 241,Makassar,Sulawesi Selatan,2024-03-18,ACTIVE
+5,SELL0005,Grosir Cemerlang 005,Micro,Jl. Diponegoro No. 26,Bandung,Jawa Barat,2024-07-25,ACTIVE
+6,SELL0006,Mart Amanah 006,Small,Jl. Kenanga No. 222,Malang,Jawa Timur,2024-03-07,ACTIVE
+7,SELL0007,Outlet Gemilang 007,Small,Jl. Merdeka No. 237,Bekasi,Jawa Barat,2024-07-25,ACTIVE
+8,SELL0008,Grosir Karya 008,Enterprise,Jl. Kenanga No. 181,Palembang,Sumatera Selatan,2024-12-11,ACTIVE
+9,SELL0009,Shop Makmur 009,Enterprise,Jl. Kenanga No. 21,Samarinda,Kalimantan Timur,2024-10-04,ACTIVE
+10,SELL0010,Shop Makmur 010,Enterprise,Jl. Merdeka No. 67,Palembang,Sumatera Selatan,2024-09-25,ACTIVE
+11,SELL0011,Toko Amanah 011,Medium,Jl. Pemuda No. 172,Yogyakarta,DI Yogyakarta,2024-04-20,ACTIVE
+12,SELL0012,Pusat Gemilang 012,Small,Jl. Sudirman No. 49,Depok,Jawa Barat,2024-05-06,ACTIVE
+13,SELL0013,Pusat Nusantara 013,Small,Jl. Sudirman No. 135,Malang,Jawa Timur,2024-01-14,ACTIVE
+14,SELL0014,Shop Digital 014,Small,Jl. Sudirman No. 202,Tangerang,Banten,2024-06-03,ACTIVE
+15,SELL0015,Toko Gemilang 015,Small,Jl. Pemuda No. 104,Medan,Sumatera Utara,2024-07-11,ACTIVE
+16,SELL0016,Pusat Jaya 016,Micro,Jl. Merdeka No. 133,Bekasi,Jawa Barat,2024-01-28,ACTIVE
+17,SELL0017,Mart Abadi 017,Medium,Jl. Merdeka No. 145,Yogyakarta,DI Yogyakarta,2024-09-02,ACTIVE
+18,SELL0018,Grosir Mandiri 018,Small,Jl. Merdeka No. 74,Makassar,Sulawesi Selatan,2024-10-16,ACTIVE
+19,SELL0019,Toko Sejahtera 019,Small,Jl. Sudirman No. 51,Depok,Jawa Barat,2024-10-26,ACTIVE
+20,SELL0020,Grosir Mandiri 020,Micro,Jl. Diponegoro No. 76,Balikpapan,Kalimantan Timur,2024-09-18,ACTIVE
+21,SELL0021,Store Digital 021,Medium,Jl. Kenanga No. 177,Yogyakarta,DI Yogyakarta,2024-06-04,ACTIVE
+22,SELL0022,Shop Maju 022,Micro,Jl. Merdeka No. 94,Bogor,Jawa Barat,2024-02-04,ACTIVE
+23,SELL0023,Grosir Mandiri 023,Small,Jl. Veteran No. 32,Semarang,Jawa Tengah,2024-06-19,ACTIVE
+24,SELL0024,Outlet Karya 024,Medium,Jl. Melati No. 158,Makassar,Sulawesi Selatan,2024-12-27,ACTIVE
+25,SELL0025,Toko Mitra 025,Small,Jl. Melati No. 113,Samarinda,Kalimantan Timur,2024-07-14,ACTIVE
+26,SELL0026,Toko Jaya 026,Micro,Jl. Kenanga No. 126,Samarinda,Kalimantan Timur,2024-07-03,ACTIVE
+27,SELL0027,Shop Tekno 027,Micro,Jl. Sudirman No. 154,Medan,Sumatera Utara,2024-09-03,ACTIVE
+28,SELL0028,Shop Cemerlang 028,Enterprise,Jl. Melati No. 157,Sleman,DI Yogyakarta,2024-06-25,ACTIVE
+29,SELL0029,Outlet Maju 029,Small,Jl. Diponegoro No. 87,Makassar,Sulawesi Selatan,2024-02-21,ACTIVE
+30,SELL0030,Toko Jaya 030,Small,Jl. Diponegoro No. 215,Bogor,Jawa Barat,2024-11-01,ACTIVE
+31,SELL0031,Outlet Mandiri 031,Small,Jl. Merdeka No. 143,Bekasi,Jawa Barat,2024-07-24,ACTIVE
+32,SELL0032,Outlet Abadi 032,Enterprise,Jl. Veteran No. 193,Medan,Sumatera Utara,2024-06-26,ACTIVE
+33,SELL0033,Store Jaya 033,Medium,Jl. Sudirman No. 163,Depok,Jawa Barat,2024-05-08,ACTIVE
+34,SELL0034,Shop Sentosa 034,Medium,Jl. Veteran No. 28,Surabaya,Jawa Timur,2024-10-05,ACTIVE
+35,SELL0035,Toko Jaya 035,Medium,Jl. Diponegoro No. 129,Denpasar,Bali,2024-05-24,ACTIVE
+36,SELL0036,Pusat Amanah 036,Enterprise,Jl. Merdeka No. 249,Bantul,DI Yogyakarta,2024-01-09,ACTIVE
+37,SELL0037,Pusat Lestari 037,Enterprise,Jl. Veteran No. 178,Yogyakarta,DI Yogyakarta,2024-10-14,ACTIVE
+38,SELL0038,Toko Karya 038,Enterprise,Jl. Pemuda No. 184,Surakarta,Jawa Tengah,2024-05-17,ACTIVE
+39,SELL0039,Toko Mitra 039,Enterprise,Jl. Merdeka No. 125,Bekasi,Jawa Barat,2024-07-28,ACTIVE
+40,SELL0040,Toko Gemilang 040,Micro,Jl. Merdeka No. 3,Pontianak,Kalimantan Barat,2024-01-14,ACTIVE
+41,SELL0041,Shop Cemerlang 041,Medium,Jl. Melati No. 33,Sleman,DI Yogyakarta,2024-12-02,ACTIVE
+42,SELL0042,Toko Nusantara 042,Enterprise,Jl. Veteran No. 171,Semarang,Jawa Tengah,2024-02-22,ACTIVE
+43,SELL0043,Mart Makmur 043,Small,Jl. Pemuda No. 9,Balikpapan,Kalimantan Timur,2024-08-21,ACTIVE
+44,SELL0044,Mart Sukses 044,Small,Jl. Diponegoro No. 121,Balikpapan,Kalimantan Timur,2024-12-16,ACTIVE
+45,SELL0045,Pusat Sejahtera 045,Small,Jl. Gajah Mada No. 123,Sleman,DI Yogyakarta,2024-01-15,ACTIVE
+46,SELL0046,Mart Prima 046,Medium,Jl. Veteran No. 86,Bantul,DI Yogyakarta,2024-02-19,ACTIVE
+47,SELL0047,Shop Prima 047,Micro,Jl. Melati No. 241,Surakarta,Jawa Tengah,2024-03-03,ACTIVE
+48,SELL0048,Pusat Berkah 048,Medium,Jl. Merdeka No. 87,Balikpapan,Kalimantan Timur,2024-01-12,ACTIVE
+49,SELL0049,Toko Mandiri 049,Enterprise,Jl. Diponegoro No. 150,Balikpapan,Kalimantan Timur,2024-07-22,ACTIVE
+50,SELL0050,Outlet Sejahtera 050,Enterprise,Jl. Pemuda No. 182,Bantul,DI Yogyakarta,2024-10-18,ACTIVE
+51,SELL0051,Outlet Berkah 051,Small,Jl. Melati No. 185,Bogor,Jawa Barat,2024-07-03,ACTIVE
+52,SELL0052,Pusat Amanah 052,Medium,Jl. Kenanga No. 219,Bekasi,Jawa Barat,2024-06-10,ACTIVE
+53,SELL0053,Grosir Maju 053,Medium,Jl. Melati No. 124,Depok,Jawa Barat,2024-10-09,ACTIVE
+54,SELL0054,Mart Jaya 054,Medium,Jl. Merdeka No. 134,Medan,Sumatera Utara,2024-01-07,ACTIVE
+55,SELL0055,Store Gemilang 055,Micro,Jl. Merdeka No. 166,Depok,Jawa Barat,2024-09-22,ACTIVE
+56,SELL0056,Shop Lestari 056,Micro,Jl. Sudirman No. 243,Bekasi,Jawa Barat,2024-05-05,ACTIVE
+57,SELL0057,Outlet Tekno 057,Medium,Jl. Diponegoro No. 239,Semarang,Jawa Tengah,2024-09-30,ACTIVE
+58,SELL0058,Mart Sentosa 058,Small,Jl. Diponegoro No. 198,Bogor,Jawa Barat,2024-12-07,ACTIVE
+59,SELL0059,Pusat Karya 059,Medium,Jl. Merdeka No. 111,Semarang,Jawa Tengah,2024-02-28,ACTIVE
+60,SELL0060,Pusat Amanah 060,Small,Jl. Diponegoro No. 41,Sleman,DI Yogyakarta,2024-02-23,ACTIVE
+61,SELL0061,Grosir Sukses 061,Micro,Jl. Diponegoro No. 15,Denpasar,Bali,2024-09-20,ACTIVE
+62,SELL0062,Toko Pangan 062,Small,Jl. Melati No. 220,Bekasi,Jawa Barat,2024-05-30,ACTIVE
+63,SELL0063,Toko Prima 063,Micro,Jl. Melati No. 93,Bekasi,Jawa Barat,2024-07-28,ACTIVE
+64,SELL0064,Pusat Mitra 064,Micro,Jl. Diponegoro No. 232,Semarang,Jawa Tengah,2024-11-02,ACTIVE
+65,SELL0065,Grosir Gemilang 065,Micro,Jl. Pemuda No. 72,Bantul,DI Yogyakarta,2024-12-09,ACTIVE
+66,SELL0066,Pusat Mandiri 066,Small,Jl. Gajah Mada No. 153,Makassar,Sulawesi Selatan,2024-04-07,ACTIVE
+67,SELL0067,Grosir Makmur 067,Micro,Jl. Kenanga No. 3,Jakarta,DKI Jakarta,2024-03-17,ACTIVE
+68,SELL0068,Pusat Prima 068,Micro,Jl. Pemuda No. 10,Denpasar,Bali,2024-02-03,ACTIVE
+69,SELL0069,Outlet Makmur 069,Micro,Jl. Melati No. 206,Bantul,DI Yogyakarta,2024-12-22,ACTIVE
+70,SELL0070,Toko Jaya 070,Small,Jl. Diponegoro No. 60,Medan,Sumatera Utara,2024-05-02,ACTIVE
+71,SELL0071,Shop Jaya 071,Micro,Jl. Melati No. 10,Surabaya,Jawa Timur,2024-09-22,ACTIVE
+72,SELL0072,Store Sejahtera 072,Medium,Jl. Diponegoro No. 197,Makassar,Sulawesi Selatan,2024-11-04,ACTIVE
+73,SELL0073,Grosir Nusantara 073,Small,Jl. Sudirman No. 105,Tangerang,Banten,2024-01-28,ACTIVE
+74,SELL0074,Outlet Sukses 074,Medium,Jl. Veteran No. 139,Balikpapan,Kalimantan Timur,2024-02-14,ACTIVE
+75,SELL0075,Grosir Nusantara 075,Enterprise,Jl. Kenanga No. 233,Surabaya,Jawa Timur,2024-11-12,ACTIVE
+76,SELL0076,Pusat Amanah 076,Medium,Jl. Gajah Mada No. 204,Malang,Jawa Timur,2024-07-17,ACTIVE
+77,SELL0077,Grosir Gemilang 077,Medium,Jl. Melati No. 157,Jakarta,DKI Jakarta,2024-09-13,ACTIVE
+78,SELL0078,Outlet Amanah 078,Medium,Jl. Kenanga No. 155,Semarang,Jawa Tengah,2024-01-14,ACTIVE
+79,SELL0079,Pusat Maju 079,Micro,Jl. Melati No. 238,Pontianak,Kalimantan Barat,2024-10-06,ACTIVE
+80,SELL0080,Pusat Prima 080,Small,Jl. Sudirman No. 43,Samarinda,Kalimantan Timur,2024-02-11,ACTIVE
+81,SELL0081,Mart Lestari 081,Micro,Jl. Pemuda No. 169,Medan,Sumatera Utara,2024-03-05,ACTIVE
+82,SELL0082,Outlet Mitra 082,Micro,Jl. Melati No. 29,Surakarta,Jawa Tengah,2024-12-21,ACTIVE
+83,SELL0083,Store Lestari 083,Micro,Jl. Sudirman No. 245,Bekasi,Jawa Barat,2024-07-24,ACTIVE
+84,SELL0084,Pusat Nusantara 084,Micro,Jl. Merdeka No. 164,Bogor,Jawa Barat,2024-05-06,ACTIVE
+85,SELL0085,Toko Sukses 085,Medium,Jl. Veteran No. 169,Bantul,DI Yogyakarta,2024-02-12,ACTIVE
+86,SELL0086,Toko Digital 086,Micro,Jl. Merdeka No. 120,Bandung,Jawa Barat,2024-10-11,ACTIVE
+87,SELL0087,Pusat Sentosa 087,Enterprise,Jl. Pemuda No. 148,Bandung,Jawa Barat,2024-09-17,ACTIVE
+88,SELL0088,Mart Amanah 088,Enterprise,Jl. Melati No. 247,Bandung,Jawa Barat,2024-01-16,ACTIVE
+89,SELL0089,Shop Pangan 089,Micro,Jl. Pemuda No. 110,Tangerang,Banten,2024-04-20,ACTIVE
+90,SELL0090,Shop Makmur 090,Small,Jl. Melati No. 250,Makassar,Sulawesi Selatan,2024-07-01,ACTIVE
+91,SELL0091,Store Amanah 091,Medium,Jl. Merdeka No. 159,Semarang,Jawa Tengah,2024-02-12,ACTIVE
+92,SELL0092,Toko Lestari 092,Micro,Jl. Gajah Mada No. 226,Sleman,DI Yogyakarta,2024-12-11,ACTIVE
+93,SELL0093,Store Nusantara 093,Enterprise,Jl. Kenanga No. 19,Semarang,Jawa Tengah,2024-12-09,ACTIVE
+94,SELL0094,Shop Prima 094,Small,Jl. Gajah Mada No. 115,Yogyakarta,DI Yogyakarta,2024-09-17,ACTIVE
+95,SELL0095,Mart Sentosa 095,Small,Jl. Gajah Mada No. 41,Jakarta,DKI Jakarta,2024-02-07,ACTIVE
+96,SELL0096,Mart Sentosa 096,Small,Jl. Melati No. 14,Palembang,Sumatera Selatan,2024-11-25,ACTIVE
+97,SELL0097,Grosir Mitra 097,Micro,Jl. Diponegoro No. 182,Yogyakarta,DI Yogyakarta,2024-08-13,ACTIVE
+98,SELL0098,Grosir Sentosa 098,Medium,Jl. Melati No. 109,Surabaya,Jawa Timur,2024-06-12,ACTIVE
+99,SELL0099,Toko Berkah 099,Medium,Jl. Pemuda No. 36,Bantul,DI Yogyakarta,2024-04-08,ACTIVE
+100,SELL0100,Shop Cemerlang 100,Micro,Jl. Merdeka No. 156,Bandung,Jawa Barat,2024-11-20,ACTIVE
+101,SELL0101,Outlet Tekno 101,Micro,Jl. Merdeka No. 179,Medan,Sumatera Utara,2024-12-09,ACTIVE
+102,SELL0102,Pusat Sentosa 102,Medium,Jl. Gajah Mada No. 19,Sleman,DI Yogyakarta,2024-07-14,ACTIVE
+103,SELL0103,Mart Gemilang 103,Enterprise,Jl. Diponegoro No. 189,Bekasi,Jawa Barat,2024-03-03,ACTIVE
+104,SELL0104,Outlet Abadi 104,Enterprise,Jl. Melati No. 185,Tangerang,Banten,2024-09-15,ACTIVE
+105,SELL0105,Outlet Mandiri 105,Enterprise,Jl. Merdeka No. 204,Palembang,Sumatera Selatan,2024-07-12,ACTIVE
+106,SELL0106,Store Cemerlang 106,Small,Jl. Veteran No. 118,Surakarta,Jawa Tengah,2024-07-02,ACTIVE
+107,SELL0107,Mart Sejahtera 107,Small,Jl. Pemuda No. 157,Palembang,Sumatera Selatan,2024-01-03,ACTIVE
+108,SELL0108,Toko Sentosa 108,Enterprise,Jl. Sudirman No. 41,Pontianak,Kalimantan Barat,2024-12-06,ACTIVE
+109,SELL0109,Toko Karya 109,Small,Jl. Gajah Mada No. 16,Jakarta,DKI Jakarta,2024-04-07,ACTIVE
+110,SELL0110,Grosir Nusantara 110,Medium,Jl. Diponegoro No. 239,Bogor,Jawa Barat,2024-01-30,ACTIVE
+111,SELL0111,Outlet Digital 111,Small,Jl. Melati No. 30,Surabaya,Jawa Timur,2024-07-21,ACTIVE
+112,SELL0112,Store Gemilang 112,Enterprise,Jl. Diponegoro No. 118,Bantul,DI Yogyakarta,2024-02-08,ACTIVE
+113,SELL0113,Mart Amanah 113,Small,Jl. Gajah Mada No. 110,Makassar,Sulawesi Selatan,2024-08-29,ACTIVE
+114,SELL0114,Shop Mitra 114,Micro,Jl. Diponegoro No. 190,Bantul,DI Yogyakarta,2024-02-26,ACTIVE
+115,SELL0115,Store Pangan 115,Enterprise,Jl. Diponegoro No. 126,Surabaya,Jawa Timur,2024-05-12,ACTIVE
+116,SELL0116,Store Makmur 116,Small,Jl. Veteran No. 165,Depok,Jawa Barat,2024-04-21,ACTIVE
+117,SELL0117,Mart Digital 117,Enterprise,Jl. Melati No. 94,Denpasar,Bali,2024-08-16,ACTIVE
+118,SELL0118,Outlet Gemilang 118,Enterprise,Jl. Sudirman No. 247,Balikpapan,Kalimantan Timur,2024-09-22,ACTIVE
+119,SELL0119,Store Abadi 119,Micro,Jl. Melati No. 21,Bekasi,Jawa Barat,2024-09-09,ACTIVE
+120,SELL0120,Pusat Makmur 120,Enterprise,Jl. Veteran No. 76,Surabaya,Jawa Timur,2024-07-20,ACTIVE
+121,SELL0121,Mart Jaya 121,Micro,Jl. Kenanga No. 1,Bogor,Jawa Barat,2024-05-09,ACTIVE
+122,SELL0122,Pusat Sentosa 122,Enterprise,Jl. Melati No. 136,Pontianak,Kalimantan Barat,2024-01-10,ACTIVE
+123,SELL0123,Outlet Jaya 123,Small,Jl. Gajah Mada No. 75,Bekasi,Jawa Barat,2024-01-24,ACTIVE
+124,SELL0124,Toko Abadi 124,Enterprise,Jl. Veteran No. 179,Jakarta,DKI Jakarta,2024-09-25,ACTIVE
+125,SELL0125,Pusat Makmur 125,Medium,Jl. Veteran No. 81,Balikpapan,Kalimantan Timur,2024-10-07,ACTIVE
+126,SELL0126,Grosir Abadi 126,Small,Jl. Veteran No. 167,Samarinda,Kalimantan Timur,2024-02-19,ACTIVE
+127,SELL0127,Outlet Digital 127,Micro,Jl. Merdeka No. 45,Medan,Sumatera Utara,2024-08-03,ACTIVE
+128,SELL0128,Outlet Maju 128,Enterprise,Jl. Veteran No. 34,Malang,Jawa Timur,2024-11-12,ACTIVE
+129,SELL0129,Pusat Mandiri 129,Micro,Jl. Sudirman No. 239,Medan,Sumatera Utara,2024-02-26,ACTIVE
+130,SELL0130,Store Mandiri 130,Micro,Jl. Sudirman No. 202,Bogor,Jawa Barat,2024-06-10,ACTIVE
+131,SELL0131,Pusat Prima 131,Small,Jl. Kenanga No. 237,Surabaya,Jawa Timur,2024-08-17,ACTIVE
+132,SELL0132,Shop Sejahtera 132,Medium,Jl. Diponegoro No. 6,Jakarta,DKI Jakarta,2024-01-14,ACTIVE
+133,SELL0133,Pusat Maju 133,Enterprise,Jl. Veteran No. 45,Malang,Jawa Timur,2024-07-06,ACTIVE
+134,SELL0134,Shop Sentosa 134,Enterprise,Jl. Kenanga No. 145,Samarinda,Kalimantan Timur,2024-12-11,ACTIVE
+135,SELL0135,Shop Cemerlang 135,Micro,Jl. Gajah Mada No. 41,Balikpapan,Kalimantan Timur,2024-12-02,ACTIVE
+136,SELL0136,Grosir Cemerlang 136,Micro,Jl. Sudirman No. 78,Palembang,Sumatera Selatan,2024-07-14,ACTIVE
+137,SELL0137,Outlet Amanah 137,Medium,Jl. Melati No. 182,Samarinda,Kalimantan Timur,2024-09-26,ACTIVE
+138,SELL0138,Pusat Abadi 138,Micro,Jl. Gajah Mada No. 195,Samarinda,Kalimantan Timur,2024-07-17,ACTIVE
+139,SELL0139,Pusat Cemerlang 139,Enterprise,Jl. Melati No. 101,Depok,Jawa Barat,2024-10-04,ACTIVE
+140,SELL0140,Pusat Nusantara 140,Micro,Jl. Melati No. 189,Bantul,DI Yogyakarta,2024-05-03,ACTIVE
+141,SELL0141,Toko Prima 141,Micro,Jl. Merdeka No. 204,Bantul,DI Yogyakarta,2024-05-17,ACTIVE
+142,SELL0142,Mart Sejahtera 142,Micro,Jl. Veteran No. 189,Palembang,Sumatera Selatan,2024-06-24,ACTIVE
+143,SELL0143,Mart Lestari 143,Medium,Jl. Veteran No. 136,Bantul,DI Yogyakarta,2024-07-12,ACTIVE
+144,SELL0144,Pusat Abadi 144,Micro,Jl. Pemuda No. 194,Depok,Jawa Barat,2024-12-08,ACTIVE
+145,SELL0145,Grosir Mitra 145,Medium,Jl. Kenanga No. 81,Malang,Jawa Timur,2024-04-02,ACTIVE
+146,SELL0146,Grosir Makmur 146,Micro,Jl. Diponegoro No. 235,Sleman,DI Yogyakarta,2024-01-29,ACTIVE
+147,SELL0147,Pusat Sejahtera 147,Enterprise,Jl. Pemuda No. 70,Surabaya,Jawa Timur,2024-02-23,ACTIVE
+148,SELL0148,Pusat Sentosa 148,Medium,Jl. Gajah Mada No. 16,Denpasar,Bali,2024-04-24,ACTIVE
+149,SELL0149,Outlet Sukses 149,Micro,Jl. Pemuda No. 106,Tangerang,Banten,2024-04-11,ACTIVE
+150,SELL0150,Toko Sukses 150,Micro,Jl. Kenanga No. 132,Yogyakarta,DI Yogyakarta,2024-03-11,ACTIVE
+151,SELL0151,Shop Sukses 151,Medium,Jl. Diponegoro No. 73,Semarang,Jawa Tengah,2024-06-15,ACTIVE
+152,SELL0152,Shop Cemerlang 152,Medium,Jl. Pemuda No. 76,Bogor,Jawa Barat,2024-10-13,ACTIVE
+153,SELL0153,Outlet Sejahtera 153,Micro,Jl. Sudirman No. 178,Surabaya,Jawa Timur,2024-06-15,ACTIVE
+154,SELL0154,Pusat Amanah 154,Small,Jl. Diponegoro No. 177,Balikpapan,Kalimantan Timur,2024-07-22,ACTIVE
+155,SELL0155,Store Berkah 155,Small,Jl. Veteran No. 77,Semarang,Jawa Tengah,2024-12-25,ACTIVE
+156,SELL0156,Store Mitra 156,Enterprise,Jl. Melati No. 106,Surabaya,Jawa Timur,2024-04-07,ACTIVE
+157,SELL0157,Grosir Prima 157,Micro,Jl. Veteran No. 247,Bandung,Jawa Barat,2024-06-12,ACTIVE
+158,SELL0158,Mart Makmur 158,Medium,Jl. Merdeka No. 87,Bandung,Jawa Barat,2024-11-03,ACTIVE
+159,SELL0159,Outlet Karya 159,Medium,Jl. Pemuda No. 226,Makassar,Sulawesi Selatan,2024-06-24,ACTIVE
+160,SELL0160,Store Mitra 160,Micro,Jl. Sudirman No. 142,Malang,Jawa Timur,2024-03-24,ACTIVE
+161,SELL0161,Grosir Sejahtera 161,Micro,Jl. Kenanga No. 29,Pontianak,Kalimantan Barat,2024-07-13,ACTIVE
+162,SELL0162,Store Jaya 162,Small,Jl. Sudirman No. 97,Semarang,Jawa Tengah,2024-12-09,ACTIVE
+163,SELL0163,Shop Maju 163,Medium,Jl. Merdeka No. 175,Sleman,DI Yogyakarta,2024-11-11,ACTIVE
+164,SELL0164,Grosir Berkah 164,Small,Jl. Gajah Mada No. 11,Palembang,Sumatera Selatan,2024-04-04,ACTIVE
+165,SELL0165,Mart Maju 165,Enterprise,Jl. Veteran No. 108,Jakarta,DKI Jakarta,2024-04-28,ACTIVE
+166,SELL0166,Mart Nusantara 166,Small,Jl. Veteran No. 37,Yogyakarta,DI Yogyakarta,2024-04-09,ACTIVE
+167,SELL0167,Shop Sukses 167,Micro,Jl. Sudirman No. 155,Bantul,DI Yogyakarta,2024-10-15,ACTIVE
+168,SELL0168,Pusat Maju 168,Micro,Jl. Pemuda No. 175,Bandung,Jawa Barat,2024-02-11,ACTIVE
+169,SELL0169,Store Nusantara 169,Enterprise,Jl. Veteran No. 248,Semarang,Jawa Tengah,2024-02-15,ACTIVE
+170,SELL0170,Mart Jaya 170,Enterprise,Jl. Pemuda No. 35,Medan,Sumatera Utara,2024-10-17,ACTIVE
+171,SELL0171,Pusat Maju 171,Micro,Jl. Diponegoro No. 63,Samarinda,Kalimantan Timur,2024-06-02,ACTIVE
+172,SELL0172,Pusat Amanah 172,Micro,Jl. Veteran No. 158,Yogyakarta,DI Yogyakarta,2024-06-26,ACTIVE
+173,SELL0173,Mart Lestari 173,Enterprise,Jl. Melati No. 162,Malang,Jawa Timur,2024-04-21,ACTIVE
+174,SELL0174,Toko Sejahtera 174,Small,Jl. Veteran No. 222,Palembang,Sumatera Selatan,2024-08-30,ACTIVE
+175,SELL0175,Pusat Jaya 175,Medium,Jl. Gajah Mada No. 19,Sleman,DI Yogyakarta,2024-11-25,ACTIVE
+176,SELL0176,Store Nusantara 176,Small,Jl. Kenanga No. 111,Tangerang,Banten,2024-03-15,ACTIVE
+177,SELL0177,Pusat Makmur 177,Small,Jl. Melati No. 191,Surakarta,Jawa Tengah,2024-03-05,ACTIVE
+178,SELL0178,Pusat Makmur 178,Small,Jl. Sudirman No. 146,Palembang,Sumatera Selatan,2024-08-06,ACTIVE
+179,SELL0179,Grosir Gemilang 179,Micro,Jl. Sudirman No. 8,Bekasi,Jawa Barat,2024-10-30,ACTIVE
+180,SELL0180,Mart Karya 180,Enterprise,Jl. Pemuda No. 186,Pontianak,Kalimantan Barat,2024-04-18,ACTIVE
+181,SELL0181,Shop Berkah 181,Small,Jl. Veteran No. 50,Surabaya,Jawa Timur,2024-09-29,ACTIVE
+182,SELL0182,Toko Gemilang 182,Small,Jl. Gajah Mada No. 148,Balikpapan,Kalimantan Timur,2024-02-29,ACTIVE
+183,SELL0183,Pusat Abadi 183,Medium,Jl. Sudirman No. 234,Depok,Jawa Barat,2024-09-28,ACTIVE
+184,SELL0184,Toko Prima 184,Medium,Jl. Merdeka No. 139,Denpasar,Bali,2024-06-03,ACTIVE
+185,SELL0185,Store Sentosa 185,Medium,Jl. Sudirman No. 34,Sleman,DI Yogyakarta,2024-08-10,ACTIVE
+186,SELL0186,Mart Tekno 186,Enterprise,Jl. Merdeka No. 96,Palembang,Sumatera Selatan,2024-03-18,ACTIVE
+187,SELL0187,Store Abadi 187,Small,Jl. Sudirman No. 150,Samarinda,Kalimantan Timur,2024-06-02,ACTIVE
+188,SELL0188,Pusat Sentosa 188,Small,Jl. Melati No. 178,Samarinda,Kalimantan Timur,2024-06-21,ACTIVE
+189,SELL0189,Grosir Sejahtera 189,Enterprise,Jl. Pemuda No. 207,Makassar,Sulawesi Selatan,2024-03-15,ACTIVE
+190,SELL0190,Grosir Cemerlang 190,Small,Jl. Merdeka No. 76,Surabaya,Jawa Timur,2024-11-03,ACTIVE
+191,SELL0191,Store Nusantara 191,Enterprise,Jl. Melati No. 128,Depok,Jawa Barat,2024-03-26,ACTIVE
+192,SELL0192,Grosir Digital 192,Medium,Jl. Pemuda No. 198,Tangerang,Banten,2024-05-12,ACTIVE
+193,SELL0193,Toko Mandiri 193,Enterprise,Jl. Veteran No. 162,Sleman,DI Yogyakarta,2024-04-06,ACTIVE
+194,SELL0194,Outlet Prima 194,Micro,Jl. Pemuda No. 52,Pontianak,Kalimantan Barat,2024-01-27,ACTIVE
+195,SELL0195,Mart Pangan 195,Enterprise,Jl. Veteran No. 37,Semarang,Jawa Tengah,2024-10-18,ACTIVE
+196,SELL0196,Toko Maju 196,Enterprise,Jl. Kenanga No. 21,Surabaya,Jawa Timur,2024-12-23,ACTIVE
+197,SELL0197,Store Abadi 197,Small,Jl. Kenanga No. 51,Jakarta,DKI Jakarta,2024-01-04,ACTIVE
+198,SELL0198,Pusat Lestari 198,Medium,Jl. Diponegoro No. 218,Malang,Jawa Timur,2024-02-16,ACTIVE
+199,SELL0199,Toko Karya 199,Micro,Jl. Veteran No. 107,Medan,Sumatera Utara,2024-01-18,ACTIVE
+200,SELL0200,Outlet Lestari 200,Enterprise,Jl. Merdeka No. 13,Samarinda,Kalimantan Timur,2024-06-19,ACTIVE
+201,SELL0201,Grosir Jaya 201,Micro,Jl. Pemuda No. 13,Tangerang,Banten,2024-03-13,ACTIVE
+202,SELL0202,Outlet Amanah 202,Micro,Jl. Veteran No. 6,Yogyakarta,DI Yogyakarta,2024-01-11,ACTIVE
+203,SELL0203,Store Digital 203,Enterprise,Jl. Diponegoro No. 27,Samarinda,Kalimantan Timur,2024-02-03,ACTIVE
+204,SELL0204,Pusat Digital 204,Small,Jl. Pemuda No. 164,Sleman,DI Yogyakarta,2024-03-23,ACTIVE
+205,SELL0205,Store Gemilang 205,Micro,Jl. Merdeka No. 28,Yogyakarta,DI Yogyakarta,2024-12-07,ACTIVE
+206,SELL0206,Grosir Abadi 206,Enterprise,Jl. Pemuda No. 137,Malang,Jawa Timur,2024-08-20,ACTIVE
+207,SELL0207,Outlet Sentosa 207,Small,Jl. Diponegoro No. 191,Semarang,Jawa Tengah,2024-09-27,ACTIVE
+208,SELL0208,Outlet Digital 208,Micro,Jl. Merdeka No. 234,Palembang,Sumatera Selatan,2024-12-18,ACTIVE
+209,SELL0209,Mart Tekno 209,Micro,Jl. Melati No. 206,Jakarta,DKI Jakarta,2024-04-05,ACTIVE
+210,SELL0210,Grosir Mandiri 210,Small,Jl. Melati No. 240,Pontianak,Kalimantan Barat,2024-03-16,ACTIVE
+211,SELL0211,Grosir Gemilang 211,Small,Jl. Pemuda No. 100,Surakarta,Jawa Tengah,2024-09-11,ACTIVE
+212,SELL0212,Outlet Jaya 212,Enterprise,Jl. Melati No. 79,Yogyakarta,DI Yogyakarta,2024-10-27,ACTIVE
+213,SELL0213,Outlet Amanah 213,Medium,Jl. Gajah Mada No. 228,Pontianak,Kalimantan Barat,2024-08-18,ACTIVE
+214,SELL0214,Store Karya 214,Micro,Jl. Veteran No. 21,Sleman,DI Yogyakarta,2024-03-06,ACTIVE
+215,SELL0215,Shop Tekno 215,Small,Jl. Gajah Mada No. 100,Sleman,DI Yogyakarta,2024-05-06,ACTIVE
+216,SELL0216,Shop Makmur 216,Enterprise,Jl. Gajah Mada No. 4,Medan,Sumatera Utara,2024-08-14,ACTIVE
+217,SELL0217,Pusat Lestari 217,Enterprise,Jl. Pemuda No. 140,Sleman,DI Yogyakarta,2024-03-09,ACTIVE
+218,SELL0218,Grosir Gemilang 218,Medium,Jl. Kenanga No. 59,Balikpapan,Kalimantan Timur,2024-01-24,ACTIVE
+219,SELL0219,Shop Prima 219,Enterprise,Jl. Diponegoro No. 21,Malang,Jawa Timur,2024-09-19,ACTIVE
+220,SELL0220,Mart Karya 220,Enterprise,Jl. Veteran No. 232,Palembang,Sumatera Selatan,2024-05-30,ACTIVE
+221,SELL0221,Toko Sukses 221,Small,Jl. Diponegoro No. 201,Yogyakarta,DI Yogyakarta,2024-04-25,ACTIVE
+222,SELL0222,Mart Amanah 222,Micro,Jl. Pemuda No. 166,Sleman,DI Yogyakarta,2024-02-15,ACTIVE
+223,SELL0223,Toko Karya 223,Micro,Jl. Diponegoro No. 100,Bekasi,Jawa Barat,2024-12-09,ACTIVE
+224,SELL0224,Toko Mandiri 224,Medium,Jl. Melati No. 22,Semarang,Jawa Tengah,2024-08-15,ACTIVE
+225,SELL0225,Store Cemerlang 225,Micro,Jl. Kenanga No. 230,Sleman,DI Yogyakarta,2024-10-01,ACTIVE
+226,SELL0226,Shop Mitra 226,Micro,Jl. Merdeka No. 175,Jakarta,DKI Jakarta,2024-03-12,ACTIVE
+227,SELL0227,Grosir Abadi 227,Micro,Jl. Sudirman No. 84,Denpasar,Bali,2024-08-01,ACTIVE
+228,SELL0228,Shop Jaya 228,Micro,Jl. Melati No. 219,Pontianak,Kalimantan Barat,2024-04-20,ACTIVE
+229,SELL0229,Grosir Makmur 229,Micro,Jl. Merdeka No. 117,Surakarta,Jawa Tengah,2024-02-25,ACTIVE
+230,SELL0230,Outlet Tekno 230,Medium,Jl. Pemuda No. 200,Tangerang,Banten,2024-07-20,ACTIVE
+231,SELL0231,Mart Makmur 231,Micro,Jl. Kenanga No. 181,Bogor,Jawa Barat,2024-07-30,ACTIVE
+232,SELL0232,Grosir Tekno 232,Micro,Jl. Diponegoro No. 39,Medan,Sumatera Utara,2024-06-07,ACTIVE
+233,SELL0233,Outlet Sukses 233,Enterprise,Jl. Melati No. 122,Tangerang,Banten,2024-10-04,ACTIVE
+234,SELL0234,Grosir Amanah 234,Medium,Jl. Pemuda No. 8,Palembang,Sumatera Selatan,2024-02-24,ACTIVE
+235,SELL0235,Outlet Lestari 235,Medium,Jl. Pemuda No. 15,Medan,Sumatera Utara,2024-12-25,ACTIVE
+236,SELL0236,Grosir Sejahtera 236,Enterprise,Jl. Pemuda No. 158,Makassar,Sulawesi Selatan,2024-12-23,ACTIVE
+237,SELL0237,Shop Gemilang 237,Micro,Jl. Gajah Mada No. 75,Surabaya,Jawa Timur,2024-10-12,ACTIVE
+238,SELL0238,Grosir Gemilang 238,Micro,Jl. Merdeka No. 78,Balikpapan,Kalimantan Timur,2024-08-28,ACTIVE
+239,SELL0239,Store Sentosa 239,Micro,Jl. Gajah Mada No. 40,Samarinda,Kalimantan Timur,2024-08-19,ACTIVE
+240,SELL0240,Pusat Jaya 240,Enterprise,Jl. Kenanga No. 218,Makassar,Sulawesi Selatan,2024-02-24,ACTIVE
+241,SELL0241,Pusat Sejahtera 241,Small,Jl. Pemuda No. 247,Bogor,Jawa Barat,2024-04-26,ACTIVE
+242,SELL0242,Grosir Amanah 242,Micro,Jl. Gajah Mada No. 39,Makassar,Sulawesi Selatan,2024-05-28,ACTIVE
+243,SELL0243,Toko Nusantara 243,Small,Jl. Diponegoro No. 223,Surakarta,Jawa Tengah,2024-04-27,ACTIVE
+244,SELL0244,Toko Abadi 244,Enterprise,Jl. Pemuda No. 131,Surakarta,Jawa Tengah,2024-06-25,ACTIVE
+245,SELL0245,Grosir Tekno 245,Enterprise,Jl. Diponegoro No. 45,Bekasi,Jawa Barat,2024-12-18,ACTIVE
+246,SELL0246,Grosir Gemilang 246,Enterprise,Jl. Diponegoro No. 201,Samarinda,Kalimantan Timur,2024-05-10,ACTIVE
+247,SELL0247,Store Lestari 247,Medium,Jl. Melati No. 225,Jakarta,DKI Jakarta,2024-03-11,ACTIVE
+248,SELL0248,Store Sejahtera 248,Medium,Jl. Sudirman No. 82,Balikpapan,Kalimantan Timur,2024-05-13,ACTIVE
+249,SELL0249,Mart Tekno 249,Small,Jl. Pemuda No. 1,Surakarta,Jawa Tengah,2024-04-26,ACTIVE
+250,SELL0250,Toko Abadi 250,Micro,Jl. Pemuda No. 125,Bandung,Jawa Barat,2024-03-22,ACTIVE
+251,SELL0251,Toko Abadi 251,Medium,Jl. Diponegoro No. 129,Bogor,Jawa Barat,2024-08-20,ACTIVE
+252,SELL0252,Outlet Abadi 252,Micro,Jl. Diponegoro No. 127,Depok,Jawa Barat,2024-09-16,ACTIVE
+253,SELL0253,Mart Sejahtera 253,Medium,Jl. Merdeka No. 152,Makassar,Sulawesi Selatan,2024-03-30,ACTIVE
+254,SELL0254,Outlet Gemilang 254,Enterprise,Jl. Veteran No. 114,Palembang,Sumatera Selatan,2024-12-14,ACTIVE
+255,SELL0255,Shop Pangan 255,Small,Jl. Sudirman No. 165,Balikpapan,Kalimantan Timur,2024-08-30,ACTIVE
+256,SELL0256,Toko Makmur 256,Small,Jl. Diponegoro No. 250,Pontianak,Kalimantan Barat,2024-05-03,ACTIVE
+257,SELL0257,Shop Sukses 257,Medium,Jl. Gajah Mada No. 231,Sleman,DI Yogyakarta,2024-02-15,ACTIVE
+258,SELL0258,Store Tekno 258,Enterprise,Jl. Kenanga No. 161,Surabaya,Jawa Timur,2024-06-15,ACTIVE
+259,SELL0259,Outlet Nusantara 259,Small,Jl. Merdeka No. 26,Balikpapan,Kalimantan Timur,2024-09-26,ACTIVE
+260,SELL0260,Shop Mandiri 260,Micro,Jl. Veteran No. 184,Samarinda,Kalimantan Timur,2024-08-01,ACTIVE
+261,SELL0261,Toko Cemerlang 261,Small,Jl. Diponegoro No. 219,Jakarta,DKI Jakarta,2024-04-30,ACTIVE
+262,SELL0262,Toko Prima 262,Micro,Jl. Veteran No. 15,Denpasar,Bali,2024-12-13,ACTIVE
+263,SELL0263,Grosir Prima 263,Medium,Jl. Pemuda No. 235,Malang,Jawa Timur,2024-11-23,ACTIVE
+264,SELL0264,Store Pangan 264,Enterprise,Jl. Merdeka No. 164,Tangerang,Banten,2024-05-30,ACTIVE
+265,SELL0265,Pusat Amanah 265,Small,Jl. Merdeka No. 161,Sleman,DI Yogyakarta,2024-05-28,ACTIVE
+266,SELL0266,Shop Mandiri 266,Medium,Jl. Pemuda No. 34,Medan,Sumatera Utara,2024-01-29,ACTIVE
+267,SELL0267,Outlet Tekno 267,Medium,Jl. Merdeka No. 10,Medan,Sumatera Utara,2024-02-04,ACTIVE
+268,SELL0268,Shop Digital 268,Micro,Jl. Merdeka No. 91,Bekasi,Jawa Barat,2024-06-15,ACTIVE
+269,SELL0269,Grosir Amanah 269,Enterprise,Jl. Diponegoro No. 175,Surabaya,Jawa Timur,2024-12-21,ACTIVE
+270,SELL0270,Toko Lestari 270,Small,Jl. Gajah Mada No. 165,Depok,Jawa Barat,2024-12-19,ACTIVE
+271,SELL0271,Pusat Karya 271,Enterprise,Jl. Sudirman No. 102,Pontianak,Kalimantan Barat,2024-06-18,ACTIVE
+272,SELL0272,Outlet Pangan 272,Enterprise,Jl. Kenanga No. 169,Makassar,Sulawesi Selatan,2024-05-30,ACTIVE
+273,SELL0273,Pusat Maju 273,Medium,Jl. Veteran No. 168,Yogyakarta,DI Yogyakarta,2024-08-07,ACTIVE
+274,SELL0274,Shop Amanah 274,Medium,Jl. Melati No. 147,Bantul,DI Yogyakarta,2024-03-30,ACTIVE
+275,SELL0275,Grosir Berkah 275,Enterprise,Jl. Merdeka No. 137,Balikpapan,Kalimantan Timur,2024-03-29,ACTIVE
+276,SELL0276,Pusat Berkah 276,Micro,Jl. Sudirman No. 247,Jakarta,DKI Jakarta,2024-07-13,ACTIVE
+277,SELL0277,Shop Maju 277,Enterprise,Jl. Sudirman No. 238,Semarang,Jawa Tengah,2024-08-27,ACTIVE
+278,SELL0278,Outlet Maju 278,Enterprise,Jl. Melati No. 176,Palembang,Sumatera Selatan,2024-05-14,ACTIVE
+279,SELL0279,Pusat Berkah 279,Micro,Jl. Gajah Mada No. 54,Balikpapan,Kalimantan Timur,2024-05-07,ACTIVE
+280,SELL0280,Shop Gemilang 280,Micro,Jl. Kenanga No. 75,Denpasar,Bali,2024-07-24,ACTIVE
+281,SELL0281,Pusat Makmur 281,Small,Jl. Sudirman No. 244,Balikpapan,Kalimantan Timur,2024-11-14,ACTIVE
+282,SELL0282,Toko Nusantara 282,Enterprise,Jl. Merdeka No. 71,Malang,Jawa Timur,2024-08-04,ACTIVE
+283,SELL0283,Outlet Karya 283,Small,Jl. Kenanga No. 168,Depok,Jawa Barat,2024-06-02,ACTIVE
+284,SELL0284,Store Maju 284,Medium,Jl. Merdeka No. 232,Denpasar,Bali,2024-10-12,ACTIVE
+285,SELL0285,Mart Jaya 285,Medium,Jl. Kenanga No. 190,Surakarta,Jawa Tengah,2024-12-14,ACTIVE
+286,SELL0286,Outlet Digital 286,Micro,Jl. Pemuda No. 50,Bandung,Jawa Barat,2024-08-21,ACTIVE
+287,SELL0287,Pusat Mandiri 287,Enterprise,Jl. Sudirman No. 97,Medan,Sumatera Utara,2024-09-06,ACTIVE
+288,SELL0288,Pusat Cemerlang 288,Enterprise,Jl. Diponegoro No. 56,Palembang,Sumatera Selatan,2024-12-24,ACTIVE
+289,SELL0289,Grosir Maju 289,Medium,Jl. Sudirman No. 79,Sleman,DI Yogyakarta,2024-06-23,ACTIVE
+290,SELL0290,Mart Karya 290,Enterprise,Jl. Melati No. 66,Samarinda,Kalimantan Timur,2024-08-07,ACTIVE
+291,SELL0291,Pusat Karya 291,Medium,Jl. Kenanga No. 55,Makassar,Sulawesi Selatan,2024-01-20,ACTIVE
+292,SELL0292,Pusat Jaya 292,Medium,Jl. Gajah Mada No. 84,Makassar,Sulawesi Selatan,2024-10-07,ACTIVE
+293,SELL0293,Shop Abadi 293,Micro,Jl. Melati No. 102,Semarang,Jawa Tengah,2024-12-17,ACTIVE
+294,SELL0294,Store Gemilang 294,Small,Jl. Melati No. 125,Medan,Sumatera Utara,2024-11-06,ACTIVE
+295,SELL0295,Outlet Maju 295,Small,Jl. Kenanga No. 15,Balikpapan,Kalimantan Timur,2024-01-03,ACTIVE
+296,SELL0296,Mart Mandiri 296,Enterprise,Jl. Diponegoro No. 142,Yogyakarta,DI Yogyakarta,2024-06-24,ACTIVE
+297,SELL0297,Grosir Pangan 297,Medium,Jl. Kenanga No. 115,Bantul,DI Yogyakarta,2024-05-08,ACTIVE
+298,SELL0298,Pusat Pangan 298,Micro,Jl. Gajah Mada No. 184,Jakarta,DKI Jakarta,2024-11-03,ACTIVE
+299,SELL0299,Shop Cemerlang 299,Micro,Jl. Merdeka No. 148,Bantul,DI Yogyakarta,2024-05-26,ACTIVE
+300,SELL0300,Mart Cemerlang 300,Medium,Jl. Pemuda No. 158,Malang,Jawa Timur,2024-05-25,ACTIVE

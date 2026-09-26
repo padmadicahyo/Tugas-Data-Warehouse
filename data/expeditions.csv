@@ -1,0 +1,7 @@
+﻿expedition_code,expedition_name,base_shipping_fee,sla_days
+EXP01,Nusantara Express,11000,3
+EXP02,Garuda Parcel,13000,3
+EXP03,Lintas Kirim,10000,4
+EXP04,Cepat Antar,15000,2
+EXP05,Mitra Logistik,9000,5
+EXP06,Urban Delivery,12000,3
